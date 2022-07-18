@@ -1,0 +1,16 @@
+*.iml
+.idea/
+.project
+.settings/
+.classpath
+.DS_Store
+.class
+target/
+lib/
+static/
+templates/
+metastore_db
+*.log
+git.properties
+*.versionsBackup
+*.zip
